@@ -6,8 +6,8 @@ https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-a
 ### Installation   
 clone this repo    
 	`git clone https://github.com/robertoodogherty/config.git`   
-install ksh   
-	`brew install ksh`
+install ksh    
+	`brew install ksh`   
 install oh-my-zsh    
 	`brew install zsh zsh-completions`     
 	`sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`   
