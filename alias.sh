@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/ksh
 
 # Movement Aliases
 alias up='cd ..'

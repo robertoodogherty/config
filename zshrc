@@ -1,3 +1,4 @@
+
 # If you come from bash you might have to change your $PATH.
 
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
@@ -114,3 +115,6 @@ POWERLEVEL9K_MULTILINE_LAST_PROMPT_PREFIX="%{%B%F{black}%K{yellow}%} $user_symbo
 source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 POWERLEVEL9K_PROMPT_ADD_NEWLINE=true
 POWERLEVEL9K_VCS_MODIFIED_BACKGROUND=’red’
+
+.  ~/config/alias.sh
+
