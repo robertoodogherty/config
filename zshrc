@@ -117,4 +117,4 @@ POWERLEVEL9K_PROMPT_ADD_NEWLINE=true
 POWERLEVEL9K_VCS_MODIFIED_BACKGROUND=’red’
 
 .  ~/config/alias.sh
-
+. ~/config/starup_script.sh

@@ -3,6 +3,9 @@
 Base configuration & set up can be found here:   
 https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961   
 
+Also includes ranger (set up terminal to auotomatically launch with it)    
+https://github.com/ranger/ranger    
+
 ### Installation   
 clone this repo    
 	`git clone https://github.com/robertoodogherty/config.git`   
