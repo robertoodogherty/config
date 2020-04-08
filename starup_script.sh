@@ -1,2 +1,3 @@
 #!/bin/ksh
+clear
 
