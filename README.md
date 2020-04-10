@@ -23,14 +23,11 @@ Medium configuration walkthrough.
 1. Install iTerm2   
 `brew cask install iterm2`   
 
-2. Configure iTerm2
-  1. In Preferences - Profile - Colors set color preset to solarized dark   
-  2. Install [Meslo Powerline Font](https://github.com/powerline/fonts/blob/master/Meslo%20Slashed/Meslo%20LG%20M%20Regular%20for%20Powerline.ttf). 
+2. Configure iTerm2 
+  1. Install [Meslo Powerline Font](https://github.com/powerline/fonts/blob/master/Meslo%20Slashed/Meslo%20LG%20M%20Regular%20for%20Powerline.ttf). 
 Click view Raw to download the font. (In OSX when you open it it should add it to your Font Book).    
-  3. In Preferences - Profile - Text set font to Meslo LG Power Font
-  4. In Preferences - Profile - Window enable Background image, select a background you would like and set blending to your hearts desire. 
-I use [this image](https://mocah.org/uploads/posts/4544095-steps-forest-green-foliage-pine-trees-trees-dirt-road.jpg)      
-  5. In Preferences - Appearence - Make sure your settings look like this:   
+  2. In Preferences - Profile Import the profile located under iTermProfile folder in the repo.     
+  3. In Preferences - Appearence - Make sure your settings look like this:   
 <img src="demo/iTermSettings/general.png" width="350">
 <img src="demo/iTermSettings/windows.png" width="350">
 <img src="demo/iTermSettings/tabs.png" width="350">
