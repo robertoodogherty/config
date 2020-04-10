@@ -23,7 +23,7 @@ Medium configuration walkthrough.
 1. Install iTerm2   
 `brew cask install iterm2`   
 
-2. Configure iTerm2 
+2. Configure iTerm2    
   i. Install [Meslo Powerline Font](https://github.com/powerline/fonts/blob/master/Meslo%20Slashed/Meslo%20LG%20M%20Regular%20for%20Powerline.ttf). 
 Click view Raw to download the font. (In OSX when you open it it should add it to your Font Book).    
   ii. In Preferences - Profile Import the profile located under iTermProfile folder in the repo.     
