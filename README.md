@@ -29,11 +29,11 @@ Click view Raw to download the font. (In OSX when you open it it should add it t
   4. In Preferences - Profile - Window enable Background image, select a background you would like and set blending to your hearts desire. 
 I use [this image](https://mocah.org/uploads/posts/4544095-steps-forest-green-foliage-pine-trees-trees-dirt-road.jpg)      
   5. In Preferences - Appearence - Make sure your settings look like this:   
-![general](demo/iTermSettings/general.png| width=100)  
-![windows](demo/iTermSettings/windows.png| width=100)       
-![tabs](demo/iTermSettings/tabs.png| width=100)       
-![panes](demo/iTermSettings/panes.png| width=100)           
-![dimming](demo/iTermSettings/Dimming.png| width=100)    
+<img src="demo/iTermSettings/general.png" width="350">
+<img src="demo/iTermSettings/windows.png" width="350">
+<img src="demo/iTermSettings/tabs.png" width="350">
+<img src="demo/iTermSettings/panes.png" width="350">
+<img src="demo/iTermSettings/Dimming.png" width="350">   
 
 
 3. Install ksh    
