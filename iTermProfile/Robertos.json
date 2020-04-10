@@ -45,7 +45,7 @@
     "Green Component" : 0.53725490196078429
   },
   "Right Option Key Sends" : 0,
-  "Rows" : 25,
+  "Rows" : 44,
   "Default Bookmark" : "No",
   "Blend" : 0.2206074822809278,
   "Cursor Guide Color" : {
@@ -99,7 +99,7 @@
     "Green Component" : 0.21176470588235294
   },
   "Only The Default BG Color Uses Transparency" : true,
-  "Columns" : 80,
+  "Columns" : 95,
   "Idle Code" : 0,
   "Background Image Mode" : 2,
   "Ansi 13 Color" : {
@@ -297,7 +297,7 @@
       "Text" : "[1;2P"
     }
   },
-  "Window Type" : 1,
+  "Window Type" : 0,
   "Background Image Location" : "\/Users\/robertoodogherty\/Documents\/Pictures\/Wallpapers\/Horizontal\/stairs.jpg",
   "Blur" : false,
   "Badge Color" : {
