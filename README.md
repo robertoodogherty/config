@@ -42,7 +42,6 @@ Click view Raw to download the font. (In OSX when you open it it should add it t
   `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`   
 5. Replace .zshrc   
   `rm ~/.zshrc`   
-  `rm -rf ~/.oh-my-zhrc`   
   `ln ~/config/zshrc ~/.zshrc`   
 6. If you want ranger to preview images look at instructions [here](https://github.com/ranger/ranger/wiki/Image-Previews) (Please note the image rendering is very slow may not be worth the trouble).
 
@@ -51,7 +50,6 @@ Click view Raw to download the font. (In OSX when you open it it should add it t
 2. Install shpotify `brew install shpotify`
 3. Install Übersicht [here](http://tracesof.net/uebersicht/)
 4. Clone pecan to where Übersicht keeps its widgets. In macos `git clone https://github.com/zzzeyez/pecan.git ~/Library/Application\ Support/Übersicht/widgets/pecan`
-
 
 
 ___
