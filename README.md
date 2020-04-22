@@ -15,8 +15,9 @@ Medium configuration walkthrough.
 
 ### Addons
 * [vtop](https://github.com/MrRio/vtop)
-* [shpotify](https://github.com/hnarayanan/shpotify)
-* [Übersicht](http://tracesof.net/uebersicht/)
+* [shpotify](https://github.com/hnarayanan/shpotify)   
+* [Übersicht](http://tracesof.net/uebersicht/)    
+* [Archey](https://github.com/obihann/archey-osx)
 
 ## Installation ##
 ### Core
@@ -50,7 +51,7 @@ Click view Raw to download the font. (In OSX when you open it it should add it t
 2. Install shpotify `brew install shpotify`
 3. Install Übersicht [here](http://tracesof.net/uebersicht/)
 4. Clone pecan to where Übersicht keeps its widgets. In macos `git clone https://github.com/zzzeyez/pecan.git ~/Library/Application\ Support/Übersicht/widgets/pecan`
-
+5. Install archey `brew install archey`
 
 ___
 
