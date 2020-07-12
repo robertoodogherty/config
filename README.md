@@ -1,11 +1,5 @@
 # Roberto's OSX terminal config #
  
-![Windowed Demo](README_FILES/windowedDemo.png)   
-![Fullscreen Demo](README_FILES/fullscreenDemo.gif)  
-
-This configuration is **heavily** based on [this](https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961)
-Medium configuration walkthrough.     
-
 ## Components   
 ### Core
 * [iTerm2](https://www.iterm2.com/)  
@@ -41,6 +35,8 @@ Click view Raw to download the font. (In OSX when you open it it should add it t
   `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`   
 5. [Install Powerlevel 10k](https://github.com/romkatv/powerlevel10k#manual)   
 6. Run `p10k configure`    
+
+TODO: How to install ranger runnning alias script
 
 ### Addons
 1. Install vtop `sudo npm install -g vtop`
