@@ -1,7 +1,7 @@
 # Roberto's OSX terminal config #
  
-![Windowed Demo](demo/windowedDemo.png)   
-![Fullscreen Demo](demo/fullscreenDemo.gif)  
+![Windowed Demo](README_FILES/windowedDemo.png)   
+![Fullscreen Demo](README_FILES/fullscreenDemo.gif)  
 
 This configuration is **heavily** based on [this](https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961)
 Medium configuration walkthrough.     
@@ -16,8 +16,6 @@ Medium configuration walkthrough.
 ### Addons
 * [vtop](https://github.com/MrRio/vtop)
 * [shpotify](https://github.com/hnarayanan/shpotify)   
-* [Übersicht](http://tracesof.net/uebersicht/)    
-* [Archey](https://github.com/obihann/archey-osx)
 
 ## Installation ##
 ### Core
@@ -29,11 +27,11 @@ Medium configuration walkthrough.
 Click view Raw to download the font. (In OSX when you open it it should add it to your Font Book).    
   ii. In Preferences - Profile Import the profile located under iTermProfile folder in the repo.     
   iii. In Preferences - Appearence - Make sure your settings look like this:   
-<img src="demo/iTermSettings/general.png" width="350">
-<img src="demo/iTermSettings/windows.png" width="350">
-<img src="demo/iTermSettings/tabs.png" width="350">
-<img src="demo/iTermSettings/panes.png" width="350">
-<img src="demo/iTermSettings/Dimming.png" width="350">   
+<img src="README_FILES/iTermSettings/general.png" width="350">
+<img src="README_FILES/iTermSettings/windows.png" width="350">
+<img src="README_FILES/iTermSettings/tabs.png" width="350">
+<img src="README_FILES/iTermSettings/panes.png" width="350">
+<img src="README_FILES/iTermSettings/Dimming.png" width="350">   
 
 
 3. Install ksh    
@@ -41,17 +39,12 @@ Click view Raw to download the font. (In OSX when you open it it should add it t
 4. Install oh-my-zsh    
   `brew install zsh zsh-completions`     
   `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`   
-5. Replace .zshrc   
-  `rm ~/.zshrc`   
-  `ln ~/config/zshrc ~/.zshrc`   
-6. If you want ranger to preview images look at instructions [here](https://github.com/ranger/ranger/wiki/Image-Previews) (Please note the image rendering is very slow may not be worth the trouble).
+5. [Install Powerlevel 10k](https://github.com/romkatv/powerlevel10k#manual)   
+6. Run `p10k configure`    
 
 ### Addons
 1. Install vtop `sudo npm install -g vtop`
 2. Install shpotify `brew install shpotify`
-3. Install Übersicht [here](http://tracesof.net/uebersicht/)
-4. Clone pecan to where Übersicht keeps its widgets. In macos `git clone https://github.com/zzzeyez/pecan.git ~/Library/Application\ Support/Übersicht/widgets/pecan`
-5. Install archey `brew install archey`
 
 ___
 
