@@ -4,7 +4,6 @@
 ### Core
 * [iTerm2](https://www.iterm2.com/)  
 * [oh-my-zsh](https://ohmyz.sh/)  
-* [ranger](https://github.com/ranger/ranger)     
 * [ksh](https://en.wikipedia.org/wiki/KornShell)
 
 ### Addons
@@ -35,8 +34,7 @@ Click view Raw to download the font. (In OSX when you open it it should add it t
   `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`   
 5. [Install Powerlevel 10k](https://github.com/romkatv/powerlevel10k#manual)   
 6. Run `p10k configure`    
-
-TODO: How to install ranger runnning alias script
+7. At the bottom of the `~/.zshrc` file add `. <location of alias.sh file>
 
 ### Addons
 1. Install vtop `sudo npm install -g vtop`
@@ -45,5 +43,4 @@ TODO: How to install ranger runnning alias script
 ___
 
 [Roberto](https://robertoodogherty.github.io/) 03/2020
-
 
