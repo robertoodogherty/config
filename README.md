@@ -6,10 +6,6 @@
 * [oh-my-zsh](https://ohmyz.sh/)  
 * [ksh](https://en.wikipedia.org/wiki/KornShell)
 
-### Addons
-* [vtop](https://github.com/MrRio/vtop)
-* [shpotify](https://github.com/hnarayanan/shpotify)   
-
 ## Installation ##
 ### Core
 1. Install iTerm2   
@@ -35,10 +31,6 @@ Click view Raw to download the font. (In OSX when you open it it should add it t
 5. [Install Powerlevel 10k](https://github.com/romkatv/powerlevel10k#manual)   
 6. Run `p10k configure`    
 7. At the bottom of the `~/.zshrc` file add `. <location of alias.sh file>
-
-### Addons
-1. Install vtop `sudo npm install -g vtop`
-2. Install shpotify `brew install shpotify`
 
 ___
 
