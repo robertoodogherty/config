@@ -1,4 +1,6 @@
 # Roberto's OSX terminal config #
+
+![Terminal View](./readme_files/terminal_view.png)
  
 ## Components   
 ### Core
@@ -16,11 +18,11 @@
 Click view Raw to download the font. (In OSX when you open it it should add it to your Font Book).    
   ii. In Preferences - Profile Import the profile located under iTermProfile folder in the repo.     
   iii. In Preferences - Appearence - Make sure your settings look like this:   
-<img src="README_FILES/iTermSettings/general.png" width="350">
-<img src="README_FILES/iTermSettings/windows.png" width="350">
-<img src="README_FILES/iTermSettings/tabs.png" width="350">
-<img src="README_FILES/iTermSettings/panes.png" width="350">
-<img src="README_FILES/iTermSettings/Dimming.png" width="350">   
+<img src="readme_files/iTermSettings/general.png" width="350">
+<img src="readme_files/iTermSettings/windows.png" width="350">
+<img src="readme_files/iTermSettings/tabs.png" width="350">
+<img src="readme_files/iTermSettings/panes.png" width="350">
+<img src="readme_files/iTermSettings/Dimming.png" width="350">   
 
 
 3. Install ksh    
