@@ -30,7 +30,7 @@ Click view Raw to download the font. (In OSX when you open it it should add it t
   `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`   
 5. [Install Powerlevel 10k](https://github.com/romkatv/powerlevel10k#manual)   
 6. Run `p10k configure`    
-7. At the bottom of the `~/.zshrc` file add `. <location of alias.sh file>
+7. At the bottom of the `~/.zshrc` file add `. <location of alias.sh file>`
 
 ___
 
